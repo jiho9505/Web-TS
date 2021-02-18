@@ -2,9 +2,7 @@ export interface Component {
     attachTo(parent: HTMLElement, position?: InsertPosition): void;
   }
   
-  /**
-   * Encapsulate the HTML element creation
-   */
+
   export class BaseComponent<T extends HTMLElement> implements Component {
     protected readonly element: T;
   
