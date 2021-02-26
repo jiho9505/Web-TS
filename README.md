@@ -17,7 +17,7 @@
 <p>- 첫 타입스크립트로서 OOP와 제네릭을 배운것을 통해 확장성 있는 코드를 생산해보고 싶었다.  </p>
 
 ## 최종 결과물
-🏠 [Homepage](https://www.findgooddoctors.co.kr/)
+🏠 [Homepage](https://jiho9505.github.io/Web-TS/)
 <br><br/>
 ## Install
 ```sh
